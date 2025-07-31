@@ -6,7 +6,7 @@ A comprehensive command-line CPU scheduling simulator implementing multiple sche
 
 ## 🚀 What's New in v2
 
-This is an enhanced version of my [CPU Scheduler Simulator v1]([link-to-your-v1-repo](https://github.com/niscollect/CPU_Scheduler.git)) with significant improvements:
+This is an enhanced version of my [CPU Scheduler Simulator v1](https://github.com/niscollect/CPU_Scheduler.git) with significant improvements:
 
 - ✅ **Preemptive Scheduling**: STCF (Shortest Time-to-Completion First)
 - ✅ **Round Robin**: Time-quantum based scheduling with circular queue
