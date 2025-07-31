@@ -152,15 +152,4 @@ Building this simulator provided hands-on experience with:
 - [ ] Performance metrics calculation (turnaround time, response time, wait time)
 - [ ] Gantt chart visualization
 
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests for improvements or additional scheduling algorithms!
-
-## 📖 References
-
-- [OSTEP - Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Process Scheduling - Wikipedia](https://en.wikipedia.org/wiki/Scheduling_(computing))
-
----
-
 Built with ❤️ while learning Operating Systems fundamentals
