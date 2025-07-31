@@ -56,7 +56,9 @@ And we need to check this right after trying to find the index.
 <hr>
 
 <hr> 
+
 # RR 
+
 ### Implementing RR 
 
 Goal: A scheduling algorithm that runs each job for a fixed time slice (quantum), then switches to the next job in a circular queue. This ensures fair CPU sharing among all processes.
